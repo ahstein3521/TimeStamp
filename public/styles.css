@@ -1,0 +1,46 @@
+body{
+    background-color:#369;
+    
+}
+h1{
+	color: #ffdf00;
+	text-align: center;
+}
+ol {
+    width:50%;
+    margin: 10px auto;
+    background: #121228; 
+}
+ol li,h4{
+    padding:4px;
+    color:orange;
+}
+h4{
+	text-align: center;
+	margin:0; 
+}
+form{
+	width:30%;
+	margin:20px auto;
+}
+
+input[type="text" i]{
+	width:80%;
+	height:25px;
+	border-radius: 5px;
+	text-indent: 10px; 
+}
+input[type="submit" i]{
+	background: #ffdf00;
+	color:#203462;
+	font-size:1em;
+	height:32px;
+	border:1px solid #b18940;
+	border-radius: 5px;
+	cursor: pointer;
+}
+input[type="submit" i]:hover{
+	opacity: .9;
+}
+
+
